@@ -243,6 +243,15 @@ months_worked = 12
 
 **Data type** batata hai ke variable mein **kis qism ki value** hai aur us par kaun se operations ho sakte hain. Python value assign karte hi data type khud detect kar leta hai (isay **dynamic typing** kehte hain).
 
+## 3. Data Types
+
+### Data type ka matlab kya hai?
+
+Data type batata hai ke koi value **kis qism (kind)** ki hai: text hai, number hai, ya haan/naa wala jawab. JavaScript isi se samajhti hai ke us value ke sath kya kiya ja sakta hai.
+
+**Real life example:** Aap ke paas alag alag cheezon ke liye alag dibbe hote hain: water ke liye bottle, Rice ke liye dabba, paise ke liye wallet. Har cheez ki apni qism aur apna container hai. Isi tarah har value ki apni data type hoti hai.
+
+
 ### Common Data Types
 
 | Data Type | Keyword | Description | Example | Real-Life Use |
